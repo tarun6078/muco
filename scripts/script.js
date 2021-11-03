@@ -14,8 +14,8 @@ new Vue({
           artist: "B Praak",
           cover: "img/ranjha.jpg",
           source: "mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
-          favorited: false
+          url: "https://youtu.be/V7LwfY5U5WI",
+          favorited: true, 
         },
         {
           name: "Everybody Knows",
