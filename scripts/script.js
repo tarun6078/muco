@@ -86,7 +86,7 @@ new Vue({
           artist: "Arijit Singh",
           cover: "img/tadap.jpg",
           source: "mp3/tadap.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=YHSJHHG5MQ0",
           favorited: false
         },
         {
@@ -94,7 +94,7 @@ new Vue({
           artist: " Mohit",
           cover: "img/saan.jpg",
           source: "mp3/saans.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=VAt6TO2gdko",
           favorited: true
         },
          {
@@ -102,7 +102,7 @@ new Vue({
           artist: " Atif Aslam",
           cover: "img/be.jpg",
           source: "mp3/be.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=nD7F40pQpyc",
           favorited: true
         },
 
