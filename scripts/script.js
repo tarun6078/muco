@@ -18,51 +18,51 @@ new Vue({
           favorited: true, 
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          name: "Aankhon ke darmiya",
+          artist: "Rishabh Tiwari",
+          cover: "https://i.ytimg.com/vi/hVNP9CY52qY/maxresdefault.jpg",
+          source: "mp3/Ankhon.mp3",
+          url: "https://www.youtube.com/watch?v=hVNP9CY52qY",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
-          favorited: false
-        },
-        {
-          name: "Butterflies",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
-          favorited: false
-        },
-        {
-          name: "The Final Victory",
-          artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          name: "Ranjha",
+          artist: "B Praak, Jasleen",
+          cover: "https://images.genius.com/2abb532cdab920ab09044dcd25447e7f.1000x1000x1.jpg",
+          source: "mp3/Ranjha.mp3",
+          url: "https://www.youtube.com/watch?v=V7LwfY5U5WI",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          name: "Gali Gali ",
+          artist: "Neha Kakkar",
+          cover: "https://i.ytimg.com/vi/8MiauUcSTcg/maxresdefault.jpg",
+          source: "mp3/Gali.mp3",
+          url: "https://www.youtube.com/watch?v=1BVgpX4w0Wk",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          name: "Bijlee Bijlee",
+          artist: "Hardy Sandhu",
+          cover: "https://a10.gaanacdn.com/images/albums/43/4824243/crop_480x480_4824243.jpg",
+          source: "mp3/Bijlee.mp3",
+          url: "https://www.youtube.com/watch?v=NwdQx2P_ytk",
+          favorited: true
+        },
+        {
+          name: "Soch Liya ",
+          artist: "Arijit Singh, Mithoon",
+          cover: "https://i0.wp.com/99lyricstore.com/wp-content/uploads/2021/12/soch-liya-lyrics-arijit-singer.jpg",
+          source: "mp3/Soch Liya.mp3",
+          url: "https://www.youtube.com/watch?v=euEGLJbe_P0",
+          favorited: false
+        },
+        {
+          name: "Barsaat Ki Dhun",
+          artist: "Jubin Nautiyal",
+          cover: "https://c.saavncdn.com/600/Barsaat-Ki-Dhun-Hindi-2021-20210720121009-500x500.jpg",
+          source: "mp3/sunn.mp3",
+          url: "https://www.youtube.com/watch?v=YIucrdfR6rI",
           favorited: true
         },
         {
