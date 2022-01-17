@@ -16,21 +16,40 @@
     <title>Muco Player</title>
   </head>
   <body>
+  <style>
+      @keyframes backgroundColorPalette {
+        0% {
+            background: lightpink;
+        }
+     25% {
+        background:lightyellow;
+
+     }
+     50%{
+        background: palevioletred;
+     }
+     75%{
+        background:gray;
+     }
+     80%{
+        background: seagreen;
+     }
+     90%{
+      background: lightgoldenrodyellow;
+    }
+    100%{ background: lightcoral;
+
+    }
+  }
+
+body {
+    animation-name: backgroundColorPalette;
+animation-duration: 20s;
+animation-iteration-count: infinite;
+animation-direction: alternates;}
+  </style>
     
-    <button onclick="myFunction()" style="background-color:transparent;">Hue</button>
-    <style>
-      body{
-        padding: 35px;
-        background-color: #dfe7ef;
-        color: powderblue;
-        front-size: 25px;
-      }
-      .dark-mode{
-        background-color: grey;
-        color: grey;
-      }
-      
-    </style>
+  </body>
     <div class="wrapper" id="app">
       <div class="player">
         <div class="player__top">
