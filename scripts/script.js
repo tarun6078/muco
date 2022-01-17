@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Ranjha",
-          artist: "B Praak",
-          cover: "img/ranjha.jpg",
+          name: "Phir Miloge Na",
+          artist: "Jal Raj",
+          cover: "https://i.ytimg.com/vi/n0VNjUNjB-g/hqdefault.jpg",
           source: "mp3/1.mp3",
-          url: "https://youtu.be/V7LwfY5U5WI",
+          url: "https://youtu.be/n0VNjUNjB-g",
           favorited: true, 
         },
         {
