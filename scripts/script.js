@@ -45,7 +45,7 @@ new Vue({
           name: "Bijlee Bijlee",
           artist: "Hardy Sandhu",
           cover: "https://a10.gaanacdn.com/images/albums/43/4824243/crop_480x480_4824243.jpg",
-          source: "mp3/Bijlee.mp3",
+          source: "mp3/bijlee.mp3",
           url: "https://www.youtube.com/watch?v=NwdQx2P_ytk",
           favorited: true
         },
@@ -53,7 +53,7 @@ new Vue({
           name: "Soch Liya ",
           artist: "Arijit Singh, Mithoon",
           cover: "https://i0.wp.com/99lyricstore.com/wp-content/uploads/2021/12/soch-liya-lyrics-arijit-singer.jpg",
-          source: "mp3/Soch Liya.mp3",
+          source: "mp3/Soch Liya - Radhe Shyam.mp3",
           url: "https://www.youtube.com/watch?v=euEGLJbe_P0",
           favorited: false
         },
