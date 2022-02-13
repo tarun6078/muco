@@ -46,7 +46,7 @@ new Vue({
           name: "Aankhon ke darmiya",
           artist: "Rishabh Tiwari",
           cover: "https://i.ytimg.com/vi/hVNP9CY52qY/maxresdefault.jpg",
-          source: "mp3/Ankhon.mp3",
+          source: "mp3/ankhon.mp3",
           url: "https://www.youtube.com/watch?v=hVNP9CY52qY",
           favorited: true
         },
